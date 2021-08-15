@@ -1,0 +1,38 @@
+div.totalbox{
+    width: 1200px;
+    padding: 0;
+}
+
+
+div{
+    border: 1px solid tomato;
+    Overflow: hidden;
+}
+
+
+
+#no{
+     display: none;
+    
+}
+
+table{
+    border-collapse: collapse;
+    float: left;
+    
+}
+
+td{
+    border: 1px solid red;
+    font-size: 1pt;
+}
+
+
+
+@media screen and (max-width: 992px){
+    
+}
+
+@media screen and (max-width: 768px){
+
+}
